@@ -7,17 +7,18 @@ namespace Bar_rating.Controllers
 {
     public class MemberController : Controller
     {
-        //[Authorize(Roles = "Admin")]
         private readonly IData data;
         public MemberController(IData _data)
         {
             data = _data;
         }
+        [Authorize(Roles = "Admin")]
         public IActionResult Index()
         {
             var list = data.GetAllMembers();
             return View(list);
         }
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete(string id)
         {
             bool isDeleted = data.DeleteMember(id);

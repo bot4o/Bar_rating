@@ -11,6 +11,7 @@ namespace Bar_rating;
 public class Program
 {
     public static async Task Main(string[] args)
+
     {
         var builder = WebApplication.CreateBuilder(args);
         var connectionString = builder.Configuration.GetConnectionString("ApplicationDbContextConnection") ?? throw new InvalidOperationException("Connection string 'ApplicationDbContextConnection' not found.");
@@ -76,7 +77,7 @@ public class Program
             if(await userManager.FindByEmailAsync(email) == null)
             {
                 var user = new IdentityUser();
-                user.UserName = email;
+                user.UserName = "Admin";
                 user.Email = email;
                 //user.EmailConfirmed = true;
                 await userManager.CreateAsync(user, password);

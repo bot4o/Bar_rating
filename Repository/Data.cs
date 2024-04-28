@@ -55,9 +55,6 @@ namespace Bar_rating.Repository
                     dr.Id = reader["ID"].ToString();
                     dr.UserName = reader["UserName"].ToString();
                     dr.PasswordHash = reader["PasswordHash"].ToString();
-                    //dr.First_Name = reader["First_Name"].ToString();
-                    //dr.Last_Name = reader["Last_Name"].ToString();
-                    //dr.PhoneNumber = reader["PhoneNumber"].ToString();
                     dr.Email = reader["Email"].ToString();
                     drivers.Add(dr);
                 }

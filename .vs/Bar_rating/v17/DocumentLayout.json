@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\repository\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:repository\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|c:\\users\\bobbi\\coding\\2804\\bar_rating\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADCD3F1-313A-4AEA-AE55-A7C3BFFF2E36}|Bar_rating.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,91 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T11:42:01.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Repository\\IData.cs",
-              "RelativeDocumentMoniker": "Repository\\IData.cs",
-              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Repository\\IData.cs",
-              "RelativeToolTip": "Repository\\IData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAqwHAAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T10:52:14.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MemberController.cs",
-              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Controllers\\MemberController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
-              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Controllers\\MemberController.cs",
-              "RelativeToolTip": "Controllers\\MemberController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T10:43:18.764Z",
+              "WhenOpened": "2024-04-28T12:40:36.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAVAAAA",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAADwvxAAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T10:53:44.538Z",
+              "WhenOpened": "2024-04-28T12:40:31.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Repository\\Data.cs",
-              "RelativeDocumentMoniker": "Repository\\Data.cs",
-              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Repository\\Data.cs",
-              "RelativeToolTip": "Repository\\Data.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAuwCoAAAAIAAAA",
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwHAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T10:21:32.127Z",
+              "WhenOpened": "2024-04-28T12:31:22.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Views\\Member\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Member\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Views\\Member\\Index.cshtml",
-              "RelativeToolTip": "Views\\Member\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-28T09:58:00.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "Models\\Member.cs",
-              "ToolTip": "C:\\Users\\bobbi\\Coding\\2804\\Bar_rating\\Models\\Member.cs",
-              "RelativeToolTip": "Models\\Member.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T09:56:03.233Z"
+              "WhenOpened": "2024-04-28T12:31:08.496Z",
+              "EditorCaption": ""
             }
           ]
         }
