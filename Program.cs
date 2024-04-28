@@ -1,6 +1,11 @@
+using Bar_rating.Repository;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using MyApplication.Data;
+using Microsoft.AspNetCore.Identity.UI.V4.Pages.Account.Internal;
+using Bar_rating.Models;
+using Microsoft.AspNetCore.Authentication;
 namespace Bar_rating;
 
 public class Program
@@ -20,6 +25,8 @@ public class Program
         builder.Services.AddControllersWithViews();
 
         builder.Services.AddRazorPages();
+
+        builder.Services.AddTransient(typeof(IData), typeof(Data));
 
         var app = builder.Build();
 
