@@ -259,3 +259,4 @@ C:\Users\bobbi\Coding\2804\Bar_rating\obj\Debug\net8.0\refint\Bar_rating.dll
 C:\Users\bobbi\Coding\2804\Bar_rating\obj\Debug\net8.0\Bar_rating.pdb
 C:\Users\bobbi\Coding\2804\Bar_rating\obj\Debug\net8.0\Bar_rating.genruntimeconfig.cache
 C:\Users\bobbi\Coding\2804\Bar_rating\obj\Debug\net8.0\ref\Bar_rating.dll
+C:\Users\bobbi\Coding\2804\Bar_rating\obj\Debug\net8.0\Bar_rating.sourcelink.json
