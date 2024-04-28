@@ -39,6 +39,16 @@ button.accept-policy {
   line-height: inherit;
 }
 
+.Acc {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.Add #register {
+    border: black 2px solid;
+    border-radius: 5px;
+}
+
 .footer {
   position: absolute;
   bottom: 0;

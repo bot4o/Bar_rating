@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Bar_rating.Models.Member>
+
+@{
+    ViewData["Title"] = "Members Page";
+}
+<div class="container"> 
+    <div class="row">
+        <div class="mt-3 p-3 ">
+            <div class="p-2">
+                <table style="width: max-content;"class="table table-responsive table-bordered text-center">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Email</th>
+                            <th>Password</th> 
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(var item in Model)
+                        {
+                        <tr>
+                            <td>
+                                <form method="post" action="@Url.Action("Delete", "Driver")">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                </form>
+                            </td>
+                            <td>@item.Id</td>
+                            <td>@item.Email</td>
+                            <td>@item.PasswordHash</td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

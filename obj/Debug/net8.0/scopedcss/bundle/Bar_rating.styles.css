@@ -40,6 +40,16 @@ button.accept-policy[b-ucutei9x51] {
   line-height: inherit;
 }
 
+.Acc[b-ucutei9x51] {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.Add #register[b-ucutei9x51] {
+    border: black 2px solid;
+    border-radius: 5px;
+}
+
 .footer[b-ucutei9x51] {
   position: absolute;
   bottom: 0;
